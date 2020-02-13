@@ -1,3 +1,7 @@
 configurar credenciales 
 
-$git config --global user.email 
+$git config --global user.email
+ 
+machinlerning
+diplerning
+inteligencia artificial
