@@ -1,0 +1,3 @@
+configurar credenciales 
+
+$git config --global user.email 
