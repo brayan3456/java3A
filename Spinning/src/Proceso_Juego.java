@@ -713,6 +713,7 @@ public class Proceso_Juego extends javax.swing.JFrame {
         Cplayer4.setText("0");
         acumulated.setText("0");
         Ppirinola.setText("Spin around -> Player #");
+        Ganador.setText("?");
                 
     }//GEN-LAST:event_ResetActionPerformed
 
